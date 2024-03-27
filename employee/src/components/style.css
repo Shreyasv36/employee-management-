@@ -1,0 +1,33 @@
+.loginPage {
+    background: 'url(./images/d.jpeg)';
+    background: linear-gradient(rgba(223, 114, 114, 0.5), rgba(184, 35, 35, 0.5)), url("./images/d.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm {
+    background-color: rgba(138, 115, 106, 0.6);
+    color: white;
+}
+.c{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(69,20,37,1) 0%, rgba(224,103,103,1) 100%, rgba(0,212,255,1) 100%);
+}
+.image_class{
+    width: 65px;
+    height: 65px;
+    border-radius: 30%;
+}
+.emp_det_image{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.loginPage1 {
+    background: 'url(./images/a.webp)';
+    background: linear-gradient(rgba(224, 191, 191, 0.5), rgba(233, 205, 205, 0.5)), url("./images/a.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
